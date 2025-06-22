@@ -1,0 +1,1 @@
+The AWS Command Line Interface (AWS CLI) provides the capability to control multiple AWS services directly from the command line within one tool. For example, a person can use commands to start an Amazon EC2 instance, connect an Amazon EC2 instance to a specific Auto Scaling group, and more. The AWS CLI is available for users on Windows, macOS, and Linux.
