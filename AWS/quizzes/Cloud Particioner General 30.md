@@ -21,5 +21,5 @@
 1. **Which tool provides automation actions for AWS services and application through scripts?**
 * [ ] Amazon Redshift
 * [ ] AWS snowball
-* [ ] AWS Command line interface
+* [x] AWS Command line interface
 * [ ] Amazon QLDB

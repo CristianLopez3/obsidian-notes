@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/quizzes/Cloud Particioner General 30.md",
+                "file": "INVESTMENTS/Concepts/Scalping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Particioner General 30"
+              "title": "Scalping"
             },
             "group": "a0401f8a3a744b64"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/quizzes/Cloud Particioner General 30.md",
-                "mode": "preview",
+                "file": "INVESTMENTS/Concepts/Scalping.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Particioner General 30"
+              "title": "Scalping"
             },
             "group": "a0401f8a3a744b64"
           }
@@ -191,10 +191,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fe1fcb08b03b963",
+  "active": "52c95acd9a137212",
   "lastOpenFiles": [
-    "AWS/Index.md",
+    "INVESTMENTS/Concepts.md",
+    "INVESTMENTS/Concepts/Scalping.md",
+    "INVESTMENTS/Concepts",
+    "Untitled.md",
+    "INVESTMENTS",
     "AWS/quizzes/Cloud Particioner General 30.md",
+    "AWS/Index.md",
     "AWS/Services/AWS Comand Line Interface.md",
     "AWS/Services/AWS Organizations.md",
     "AWS/Services/Snowmobile.md",
