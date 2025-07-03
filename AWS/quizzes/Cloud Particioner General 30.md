@@ -14,7 +14,7 @@
 
 1. **Which service consolidates and manages multiple AWS Accounts from a central location?**
 * [ ] AWS Identity and Access Management (IAM)
-* [ ] AWS Organizations
+* [x] AWS Organizations
 * [ ] AWS Artifact
 * [ ] AWS Key Management service (AWS KMS).
 
@@ -23,3 +23,4 @@
 * [ ] AWS snowball
 * [x] AWS Command line interface
 * [ ] Amazon QLDB
+
