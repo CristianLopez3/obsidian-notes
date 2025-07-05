@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiReplaceAll",
       "💸",
       "LiBadgeCheck",
       "LiTestTube",
@@ -36,5 +37,6 @@
   "AWS": "LiApple",
   "AWS/quizzes": "LiTestTube",
   "AWS/Services": "LiBadgeCheck",
-  "INVESTMENTS": "💸"
+  "INVESTMENTS": "💸",
+  "AWS/General": "LiReplaceAll"
 }
