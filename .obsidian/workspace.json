@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/quizzes/assetments/Assetment 2.md",
+                "file": "AWS/General/Going global with AWS infrastructure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assetment 2"
+              "title": "Going global with AWS infrastructure"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.5124969482422
   },
   "right": {
     "id": "7005d79ca6f1c4c8",
@@ -171,34 +171,38 @@
   },
   "active": "c55f474666c1d9cc",
   "lastOpenFiles": [
-    "AWS/Services/EC2.md",
+    "AWS/quizzes/assetments/Assessment 3.md",
+    "AWS/General/Going global with AWS infrastructure.md",
+    "AWS/Services/Outposts.md",
+    "AWS/Services/Lightsail.md",
+    "AWS/Services/AWS Batch.md",
+    "AWS/Services/Elastic Beanstalk.md",
+    "AWS/Services/Fargate.md",
+    "AWS/Services/ECR.md",
+    "AWS/Services/EKS.md",
+    "AWS/Services/ECS.md",
+    "AWS/General/Solving deployments challenges.md",
+    "AWS/Services/Lambda.md",
+    "AWS/Services/AMI.md",
+    "AWS/General/Serverless Computing.md",
+    "AWS/General/Decoupling Services.md",
+    "AWS/quizzes/Cloud Particioner General 30.md",
+    "INVESTMENTS/Concepts.md",
+    "INVESTMENTS/Platforms.md",
+    "INVESTMENTS/Precio.md",
     "AWS/quizzes/assetments/Assetment 2.md",
+    "AWS/Services/EC2.md",
     "AWS/Services/SNS.md",
     "AWS/Services/SQS.md",
     "Untitled.md",
-    "AWS/General/Decoupling Services.md",
     "AWS/Services/ELB - Elastic Load Balancing.md",
     "AWS/General/Slasticity.md",
-    "AWS/General/Scability.md",
-    "AWS/Services/AMI.md",
-    "AWS/Services/Snowmobile.md",
-    "AWS/General/Compute in the cloud.md",
-    "AWS/quizzes/assetments/Assetment 1.md",
     "AWS/General",
-    "INVESTMENTS/Precio.md",
-    "AWS/quizzes/Cloud Particioner General 30.md",
     "AWS/quizzes/assetments",
-    "INVESTMENTS/Concepts/Scalping.md",
-    "INVESTMENTS/Concepts.md",
     "INVESTMENTS/Concepts",
     "INVESTMENTS",
-    "AWS/Index.md",
-    "AWS/Services/AWS Comand Line Interface.md",
-    "AWS/Services/AWS Organizations.md",
-    "README.md",
     "AWS/Services",
     "AWS/quizzes",
-    "Tasks.md",
     "AWS"
   ]
 }
