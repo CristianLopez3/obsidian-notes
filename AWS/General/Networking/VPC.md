@@ -102,4 +102,24 @@ Imagina que vas a desplegar una aplicación web en AWS:
 
 ---
 
-💡 **Dato importante**: Cuando se una cuenta AWS, se genera una **Default VPC** en cada región, pero en proyectos serios normalmente se crea una **VPC personalizada** con un CIDR planificado y subnets bien definidas.
+## Building an Amazon VPC in the AWS Cloud
+
+**Core components covered in this demonstration**
+
+It's helpful to understand how resources are created using the AWS Management Console. The following is a high-level overview of the resources and core components created in the preceding demonstration.
+
+
+### Create the Amazon VPC
+
+Before you can create resources in the AWS Cloud, the first step is to create your own Amazon VPC.  You will also specify the Region best located for your resources.
+
+![[Pasted image 20250811211232.png]]
+### Create the subnets
+
+You will create two public and private subnets across two availability zones. This is a best practice to achieve high availability.
+![[Pasted image 20250811211304.png]]
+### Create an internet gateway and route traffic
+
+Without an internet gateway, your users can't get to your resources. First, you create the internet gateway. Then, you create route tables to route traffic to allow internet traffic in and local traffic out.
+![[Pasted image 20250811211333.png]]
+You are well on your way to creating your resources in your Amazon VPC. At this point, you would consider what type of security you need and filter the traffic coming in and out. Remember security groups and network ACLs? That's where they come in handy! And finally, you'd be ready to add your resources like EC2 instances or databases in your subnets.
