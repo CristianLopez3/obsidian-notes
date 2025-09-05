@@ -3,7 +3,8 @@
     "->": {
       "replaced": "->",
       "value": "→",
-      "group": "Arrows"
+      "group": "Arrows",
+      "count": 1
     },
     "<-": {
       "replaced": "<-",

@@ -34,9 +34,9 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "AWS": "LiApple",
-  "AWS/quizzes": "LiTestTube",
-  "AWS/Services": "LiBadgeCheck",
   "INVESTMENTS": "💸",
-  "AWS/General": "LiReplaceAll"
+  "CLOUD/AWS": "LiApple",
+  "CLOUD/AWS/General": "LiReplaceAll",
+  "CLOUD/AWS/quizzes": "LiTestTube",
+  "CLOUD/AWS/Services": "LiBadgeCheck"
 }
