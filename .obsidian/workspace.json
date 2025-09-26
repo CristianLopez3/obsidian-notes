@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLOUD/AWS/Services/database/Amazon Neptune.md",
+                "file": "CLOUD/NETWORKING/DEFINITIONS/Bridge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amazon Neptune"
+              "title": "Bridge"
             }
           }
         ],
@@ -199,10 +199,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f5c5e3caccf4652",
+  "active": "a6921c39d8f6582f",
   "lastOpenFiles": [
-    "CLOUD/AWS/Services/database/AWS Backup.md",
+    "assets/img/bridge-example.png",
+    "CLOUD/NETWORKING/DEFINITIONS/Collision Domain.md",
+    "CLOUD/NETWORKING/DEFINITIONS/Bridge.md",
+    "CLOUD/AWS/General/AI Services.md",
+    "CLOUD/NETWORKING/DEFINITIONS",
+    "CLOUD/NETWORKING",
+    "CLOUD/AWS/General/Machine Learning - ML.md",
+    "CLOUD/AWS/General/AI.md",
     "CLOUD/AWS/Services/database/Amazon Neptune.md",
+    "CLOUD/AWS/Services/database/AWS Backup.md",
     "CLOUD/AWS/Services/database/DocumentDB.md",
     "CLOUD/AWS/Services/database/Untitled",
     "CLOUD/AWS/Services/database/ElastiCache.md",
@@ -224,8 +232,6 @@
     "CLOUD/AWS/quizzes/assetments/Assessment 6.md",
     "DEVELOPMENT/PROGRAMMING LANGUAGES/JAVA/NOTES",
     "DEVELOPMENT/PROGRAMMING LANGUAGES/JAVA/INTERVIEW QUESTIONS",
-    "DEVELOPMENT/PROGRAMMING LANGUAGES/PYTHON",
-    "DEVELOPMENT/PROGRAMMING LANGUAGES/JAVA",
     "CLOUD/AWS/Services/storage/AWS Elastic Disaster Recovery.md",
     "CLOUD/AWS/Services/storage/Storage Gateway.md",
     "DEVELOPMENT/GIT/tips/Devolver una clase a un commit especifico.md",
@@ -234,12 +240,6 @@
     "CLOUD/AWS/Services/storage/EFS.md",
     "CLOUD/AWS/General/Connecting to the AWS Cloud.md",
     "CLOUD/AWS/Services/configuration/CloudFormation.md",
-    "CLOUD/AWS/Services/configuration/Comand Line Interface.md",
-    "CLOUD/AWS/Services/storage/S3.md",
-    "CLOUD/AWS/Services/storage/EBS - Elastic Block Storage.md",
-    "CLOUD/AWS/Services/configuration/Organizations.md",
-    "CLOUD/AWS/Services/configuration/Snowmobile.md",
-    "CLOUD/AWS/Services/configuration/Outposts.md",
     "assets/img/Pasted image 20250811211333.png",
     "assets/img/Pasted image 20250811211304.png",
     "assets/img/Pasted image 20250811211232.png",

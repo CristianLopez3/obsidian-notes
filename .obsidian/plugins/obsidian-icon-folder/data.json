@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiWifi",
       "LiReplaceAll",
       "💸",
       "LiBadgeCheck",
-      "LiTestTube",
-      "LiApple"
+      "LiTestTube"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "CLOUD/AWS": "LiApple",
   "CLOUD/AWS/General": "LiReplaceAll",
   "CLOUD/AWS/quizzes": "LiTestTube",
-  "CLOUD/AWS/Services": "LiBadgeCheck"
+  "CLOUD/AWS/Services": "LiBadgeCheck",
+  "CLOUD/NETWORKING": "LiWifi"
 }
