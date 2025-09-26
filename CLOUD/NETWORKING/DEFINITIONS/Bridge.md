@@ -32,4 +32,4 @@ bridge.forward("PC1", "PC2")
 
 ### Ejemplo Grafico
 
-![[bridge-example.png]]
+![Example](/assets/img/bridge-example.png)
